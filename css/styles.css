@@ -26,7 +26,7 @@ text-decoration: none;
 img {
     background-image: width=800px;
     height: 500px;
-    padding: 10mm;
+    padding: 5mm;
     float: right;
 }
 .intro {
@@ -63,7 +63,7 @@ ol {
 figure {
     font-style: italic;
     font-variant: small-caps;
-    text-align: center;
+    text-align: right;
 }
   }
 @media screen and (max-width: 480px) {
