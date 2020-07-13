@@ -63,6 +63,7 @@ ol {
 figure {
     font-style: italic;
     font-variant: small-caps;
+    text-align: center;
 }
   }
 @media screen and (max-width: 480px) {
