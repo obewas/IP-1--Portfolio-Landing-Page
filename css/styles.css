@@ -1,0 +1,85 @@
+.header {
+padding: 20px;
+text-align: center; 
+background: yellowgreen; 
+text-decoration: none;
+word-spacing: 4em;
+}
+.header nav a {
+text-decoration: none;
+color:blue;
+font-size: larger
+}
+.contacts {
+    float: right;
+    width: 30%;
+    padding-top: 5mm;
+    column-span: all;
+}
+a { 
+text-decoration: none;
+}
+.repo {
+    font-weight: 200;
+    float: left;   
+}
+img {
+    background-image: width=800px;
+    height: 500px;
+    padding: ;
+    float: right;
+}
+.intro {
+    block-size: auto;
+    padding-left: 5mm;
+}
+.expectations {
+    float: center;
+}
+h3 {
+    color: maroon;
+}
+p {
+    font-style: italic;
+}
+ol {
+    font-style: italic;
+}
+.fa {
+    padding: 20px;
+    font-size: 20px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.social-media {
+    float: center;
+    width: 30%;
+}
+.projects {
+    float: left;
+    width: 30%;
+}
+figure {
+    text-align: center;
+    text-indent: 0;
+    border: thin silver solid;
+    margin: 0.5em;
+    padding: 0.5em;
+  }
+@media screen and (max-width: 480px) {
+    body {
+        background-color: black;
+        color: white;
+    }
+}
+@media screen and (min-width: 768px) {
+  body {
+    background-color: none;
+  }
+}
+  
+
+
+
+
