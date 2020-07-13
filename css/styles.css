@@ -61,11 +61,9 @@ ol {
     width: 30%;
 }
 figure {
-    text-align: center;
-    text-indent: 0;
-    border: thin silver solid;
-    margin: 0.5em;
-    padding: 0.5em;
+    font-style: italic;
+    font-variant: small-caps;
+}
   }
 @media screen and (max-width: 480px) {
     body {
